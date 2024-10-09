@@ -7,11 +7,11 @@ where data points within each group are more similar to each other than to those
 here is the link that refers our Dataset: httpss://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python  
 
 <h1> Usage of Dataset </h1>
-1.open a new notebook in colab
-2.now import necessary libraries
-3.now upload your dataset to colab
-4. perform all operations required
-5. plot the following at the end
+1.open a new notebook in colab<br>
+2.now import necessary libraries<br>
+3.now upload your dataset to colab<br>
+4. perform all operations required<br>
+5. plot the following at the end<br>
 
 <h1>Code Execution</h1>
 The code is inside the Customer_Segmentation.ipynb file. 
